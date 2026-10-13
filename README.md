@@ -4,7 +4,7 @@ A simple local-services marketplace connecting customers with nearby service pro
 
 ## Preview
 
-[Open the LocalServe MVP](./localserve_mvp.html)
+[Open the LocalServe MVP](https://local-serve-theta.vercel.app/)
 
 ## Features
 
